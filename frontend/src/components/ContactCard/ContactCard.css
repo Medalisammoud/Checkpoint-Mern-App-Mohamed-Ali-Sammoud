@@ -1,0 +1,7 @@
+.btn1{
+    display: flex;
+    justify-content: space-between;
+}
+.dlt-btn{
+    width: 80px;
+}
